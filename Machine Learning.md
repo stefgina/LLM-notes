@@ -11,6 +11,7 @@ Output size=(Input size−Filter size+2xPadding​)/Stride+1
 
 ### Dilated Convolutions (atrous conv)
 ![](imgs/dilated.png)
+
 Can model more long term dependencies on data. 
 We use it on Vocoders (Wavenet, Spectro -> Sound)
 You just add the dilation flag in Conv2d
@@ -25,17 +26,8 @@ It is the transpose operation of Convolution, we use it to upsample.
 self.deconv = nn.ConvTranspose2d(in_channels, out_channels, kernel_size, stride, padding)
 ```
 
-`
 ### Deconvolution vs Upsampling
 
 - **Deconvolution (Transposed Convolution)**: A convolutional operation with learnable parameters used to increase the spatial dimensions of data, allowing the network to learn how to upsample.
 - **Upsampling**: A simpler, non-learnable method to increase spatial dimensions, often followed by a convolution to allow the network to learn from the upsampled data. (Nearest neighbour, interpolation etc.)
-
-
-
-
-
-
-`
-
 
