@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c18c76495a2d7950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM Karpathy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fff5888bbb107f8e",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLMs.md",
+                "file": "LLM Karpathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLMs.md",
+                "file": "LLM Karpathy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMs.md"
+                "file": "LLM Karpathy.md"
               }
             }
           }
@@ -146,12 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb912e0bac1cb52",
+  "active": "c18c76495a2d7950",
   "lastOpenFiles": [
+    "LLMs.md",
+    "LLM Karpathy.md",
     "Machine Learning.md",
     "README.md",
     "Transformers.md",
-    "LLMs.md",
     "imgs/dilated.png",
     "imgs/encdec.png",
     "Pasted image 20231124015518.png",
