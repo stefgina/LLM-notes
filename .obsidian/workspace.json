@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5096c2c4372b754c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention Is All you Need - DeepMind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Turing Machines - Graves 2014.md",
+                "file": "Attention Is All you Need - DeepMind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Turing Machines - Graves 2014.md",
+                "file": "Attention Is All you Need - DeepMind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neural Turing Machines - Graves 2014.md"
+                "file": "Attention Is All you Need - DeepMind.md"
               }
             }
           }
@@ -171,15 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "778a9dc02ae26599",
+  "active": "5096c2c4372b754c",
   "lastOpenFiles": [
-    "LLM Karpathy.md",
-    "LLMs.md",
     "Neural Turing Machines - Graves 2014.md",
     "Machine Learning.md",
+    "LLMs.md",
+    "LLM Karpathy.md",
+    "Attention Is All you Need - DeepMind.md",
+    "README.md",
+    "imgs/all-you-need.png",
+    "Pasted image 20231125165048.png",
     "Transformers.md",
     "imgs/ntm-controller.png",
-    "README.md",
     "imgs/dilated.png",
     "imgs/encdec.png",
     "Pasted image 20231124015518.png",
