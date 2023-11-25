@@ -1,12 +1,17 @@
-need solid fundamentals:
-- learn linear algebra (matrix operations, inversion/determinant, linear independence, eigenvalues/eigenvectors, norms/inner-products, decompositions)
-- learn calculus (differential, integral, optimisation, cost functions, Taylor series, multivariate)
-- code back-prop without auto-grad
-- learn computational graphs
-- code a simple auto-grad framework
-- vectorisation/parallelisation
+## Work your ass off:
+- Linear algebra (matrix operations, inversion/determinant, linear independence, eigenvalues/eigenvectors, norms/inner-products, decompositions)
+- Calculus (differential, integral, optimisation, cost functions, Taylor series, multivariate)
+- Back-prop without auto-grad
+- CPU/GPU/RAM architecture/operations
+- Binary Ops
+- FP Ops
+- Computational graphs
+- Code a simple auto-grad framework
+- Vectorisation/Parallelisation
 
-understand these, and then use the fucking PyTorch
+You are not allowed to use PyTorch if you can't understand these. 
+
+
 
 ## High Level:
 - Machine Learning 
@@ -23,7 +28,7 @@ understand these, and then use the fucking PyTorch
 - Variational AutoEncoders (Arxiv) - https://www.youtube.com/watch?v=9zKuYvjFFS8&t=303s
 
 
-## Deep in the rabbit hole :
+## Rabbit hole :
 - Way of thinking ML papers (George Hotz) - https://www.youtube.com/watch?v=YrWEDOQQ8pw
 - Attention (Lilan Weng) - https://lilianweng.github.io/posts/2018-06-24-attention/
 - Watch EVERYTHING (Andrej Karpathy) - https://www.youtube.com/@AndrejKarpathy/videos
