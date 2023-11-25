@@ -1,4 +1,3 @@
-
 ### Basic Concept
 
 - **Inspiration from Turing Machines**: A Turing machine is a mathematical model of computation that manipulates symbols on a strip of tape according to a set of rules. It's a fundamental concept in computer science for understanding what can be computed.
