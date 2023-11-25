@@ -1,3 +1,14 @@
+### Word Embedding and Word2Vec
+
+Word Embeddings that correlate similar words with each other with similar numbers help neural network learn faster and more efficiently, in comparison for example with random word to number mappings.
+
+Word2Vec algorithms
+- **Continuous Bag of Words**: Uses the surrounding words to predict the middle word
+- **Skip Gram**: uses the middle word to predict the surrounding words
+
+Word2Vec speeds things up by using Negative Sampling (ignore irellevant weights)
+
+
 ## Encoder Decoder - {Supervised}
 ![](imgs/encdec.png)
 - Machine Translation: eg. RNN enc/dec, for short  translations. The encoder processes the input sentence in the source language, capturing its semantic and syntactic properties. The decoder then generates the translation in the target language, often one word or token at a time.
@@ -28,9 +39,12 @@ The idea is to compare the Encoder input and the Decoder output and minimise the
 
 
 ## Variational Auto-Encoders {Unsupervised}
-
 ![](imgs/vae.png)
+- Image Generation: VAEs can generate new images that resemble a given set of training images, useful in art, design, and entertainment.
+	- **Objective**: Learn the underlying distribution of training images to generate new, plausible images.
+	- **Loss Function**: Combination of reconstruction loss (e.g., Mean Squared Error) and Kullback-Leibler (KL) divergence to ensure the encoded latent space follows a specified distribution (usually a normal distribution).
 
+- And the same other applications as simple Auto-Encoders
 
 ## Attention 
 
