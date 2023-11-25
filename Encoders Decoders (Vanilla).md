@@ -22,15 +22,6 @@ Word2Vec speeds things up by using Negative Sampling (ignore irellevant weights)
 
 
 
-
-
-## Attention 
-
-
-
-## Transformers
-
-
 ## TTS Transformers
 Models like Tacotron 2, Wavenet, FastSpeech etc, Flowtron
 

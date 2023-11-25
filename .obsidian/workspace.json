@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Encoders Decoders (Vanilla).md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Encoders Decoders (Vanilla).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Encoders Decoders (Vanilla).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Encoders Decoders (Vanilla).md"
               }
             }
           }
@@ -219,16 +219,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d5fdaa81933399c",
+  "active": "932e6ba5e7338e55",
   "lastOpenFiles": [
-    "Attention Is All you Need - DeepMind.md",
-    "Neural Turing Machines - Graves.md",
-    "README.md",
-    "LLM - Andrey Karpathy.md",
-    "Machine Learning.md",
-    "Encoders Decoders (Vanilla).md",
     "Encoders Decoders (Attention).md",
+    "Encoders Decoders (Vanilla).md",
+    "Machine Learning.md",
+    "LLM - Andrey Karpathy.md",
     "Auto-Encoders (Vanilla).md",
+    "Neural Turing Machines - Graves.md",
+    "imgs/attention-mechs.png",
+    "README.md",
+    "imgs/scores.png",
+    "imgs/additive.png",
+    "Attention Is All you Need - DeepMind.md",
     "Untitled.md",
     "code",
     "imgs/all-you-need.png",
@@ -239,7 +242,6 @@
     "imgs/encdec.png",
     "Pasted image 20231124015518.png",
     "imgs/ae.png",
-    "imgs/vae.png",
     "imgs"
   ]
 }

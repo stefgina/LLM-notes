@@ -1,7 +1,7 @@
 ## Work your ass off:
 - Linear algebra (matrix operations, inversion/determinant, linear independence, eigenvalues/eigenvectors, norms/inner-products, decompositions)
 - Calculus (differential, integral, optimisation, cost functions, Taylor series, multivariate)
-- Back-prop without auto-grad
+- Back-prop without auto-grad (chain rules etc.)
 - CPU/GPU/RAM architecture/operations
 - Binary Ops
 - FP Ops
