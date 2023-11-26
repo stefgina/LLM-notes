@@ -9,7 +9,7 @@
 - Code a simple auto-grad framework
 - Vectorisation/Parallelisation
 
-You are not allowed to use PyTorch if you can't understand these. 
+Don't use PyTorch if you can't understand these. 
 
 
 
