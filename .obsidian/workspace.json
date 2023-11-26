@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Auto-Encoders (Vanilla).md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 210.5
   },
   "right": {
     "id": "fff5888bbb107f8e",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Auto-Encoders (Vanilla).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Auto-Encoders (Vanilla).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Auto-Encoders (Vanilla).md"
               }
             }
           }
@@ -233,14 +233,15 @@
   },
   "active": "2d8b13f85ec147e0",
   "lastOpenFiles": [
-    "Auto-Encoders (Vanilla).md",
-    "Encoders Decoders (Vanilla).md",
     "Encoders Decoders (Attention).md",
+    "Encoders Decoders (Vanilla).md",
+    "Transformers - DeepMind.md",
+    "imgs/qkv.png",
+    "Machine Learning.md",
+    "README.md",
+    "Auto-Encoders (Vanilla).md",
     "Attention Is All you Need - DeepMind.md",
     "Neural Turing Machines - Graves.md",
-    "Machine Learning.md",
-    "Transformers - DeepMind.md",
-    "README.md",
     "LLM - Andrey Karpathy.md",
     "imgs/attention-mechs.png",
     "imgs/scores.png",
@@ -252,7 +253,6 @@
     "imgs/dilated.png",
     "imgs/encdec.png",
     "Pasted image 20231124015518.png",
-    "imgs/ae.png",
     "imgs"
   ]
 }
