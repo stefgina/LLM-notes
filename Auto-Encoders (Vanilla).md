@@ -19,5 +19,4 @@ The idea is to compare the Encoder input and the Decoder output and minimise the
 - Image Generation: VAEs can generate new images that resemble a given set of training images, useful in art, design, and entertainment.
 	- **Objective**: Learn the underlying distribution of training images to generate new, plausible images.
 	- **Loss Function**: Combination of reconstruction loss (e.g., Mean Squared Error) and Kullback-Leibler (KL) divergence to ensure the encoded latent space follows a specified distribution (usually a normal distribution).
-
 - And the same other applications as simple Auto-Encoders
