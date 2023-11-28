@@ -24,7 +24,7 @@
 ### Applications
 
 - **Algorithm Learning**: NTMs can learn simple algorithms from examples, such as copying, sorting, or recalling sequences.
-- **Problem Solving**: They are designed to perform well on tasks that require both processing power (via the neural network) and a form of memory (the external matrix).
+- **Problem Solving**: They are designed to perform well on tasks that require both processing power (via the neural network) and a form of memory (the external matrix)
 
 
 ![](imgs/ntm-controller.png)
