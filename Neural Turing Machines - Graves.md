@@ -28,3 +28,20 @@
 
 
 ![](imgs/ntm-controller.png)
+
+
+########## Extra info
+Neural Turing Machines (NTMs) are a conceptual framework that combines neural networks with the external memory capacities of a Turing machine. This concept was introduced in a paper by Alex Graves, Greg Wayne, and Ivo Danihelka from DeepMind in 2014. Here's a brief overview:
+
+1. **Combining Neural Networks and Memory**: The NTM architecture integrates a neural network with an external memory bank, allowing it to not only process data but also store and retrieve it. This mimics how a human brain's neural networks interact with memory.
+    
+2. **Learning to Read and Write**: The NTM learns to read from and write to its memory, which is a significant departure from traditional neural networks that lack external memory. This enables it to perform tasks that require data retention over time.
+    
+3. **Flexible and General-Purpose**: The NTM is designed to be a general-purpose learning machine, capable of learning a wide range of tasks that require reasoning, remembering, and learning from past experiences.
+    
+4. **Enhanced Capabilities**: By combining the pattern recognition capabilities of neural networks with the vast memory of a Turing machine, NTMs aim to overcome some of the limitations of conventional neural networks, such as their typically short-term and limited memory.
+    
+5. **Applications and Impact**: The concept of NTMs has influenced the development of advanced neural network architectures, particularly in areas where learning from sequential data and memory retention are crucial.
+    
+
+The paper on Neural Turing Machines represents a significant step in the evolution of artificial neural networks, proposing a model that can learn to execute a wide variety of algorithms based on data, potentially leading to more versatile and capable AI systems.
